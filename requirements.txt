@@ -1,0 +1,15 @@
+tensorflow
+google-generativeai
+pandas
+numpy
+scikit-learn
+matplotlib
+xgboost
+requests
+beautifulsoup4
+mlflow
+langchain
+langgraph
+typing-extensions
+yfinance
+rich
