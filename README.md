@@ -14,3 +14,5 @@ This project predicts stock prices using an LSTM model and explores financial ne
 1. Clone the repo
 2. Install dependencies with `pip install -r requirements.txt`
 3. Open the notebook and run all cells
+
+<iframe width="560" height="315" src="https://youtu.be/mshFFnCtKlU" frameborder="0" allowfullscreen></iframe>
