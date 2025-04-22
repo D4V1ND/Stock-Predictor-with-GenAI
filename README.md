@@ -18,4 +18,7 @@ This project predicts stock prices using an LSTM model and explores financial ne
 
 ## 📺 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/mshFFnCtKlU&ab_channel=D4V1N)](https://www.youtube.com/watch?v=mshFFnCtKlU&ab_channel=D4V1N)
+[![Watch the demo](https://img.youtube.com/vi/mshFFnCtKlU&ab_channel=D4V1N/0.jpg)](https://www.youtube.com/watch?v=mshFFnCtKlU&ab_channel=D4V1N)
+
+[![Watch the demo](https://img.youtube.com/vi/mshFFnCtKlU/0.jpg)](https://www.youtube.com/watch?v=mshFFnCtKlU)
+
